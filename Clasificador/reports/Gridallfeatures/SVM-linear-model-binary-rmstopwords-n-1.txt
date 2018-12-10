@@ -1,0 +1,34 @@
+**********        EVALUATION REPORT     **********
+Reduction: CHI2100
+Classifier: SVM
+Kernel: linear
+Accuracy: 0.9437125748502994
+Precision: 0.9409155879886683
+Recall: 0.9437125748502994
+F-score: 0.9418847288377276
+Confusion matrix: 
+[[2929   71]
+ [ 117  223]]
+Classification report: 
+             precision    recall  f1-score   support
+
+      OTHER       0.96      0.98      0.97      3000
+         RI       0.76      0.66      0.70       340
+
+avg / total       0.94      0.94      0.94      3340
+
+Best parameters: 
+	C: 3.933660229792263
+	cache_size: 200
+	class_weight: None
+	coef0: 0.0
+	decision_function_shape: 'ovr'
+	degree: 3
+	gamma: 'auto'
+	kernel: 'linear'
+	max_iter: -1
+	probability: False
+	random_state: None
+	shrinking: True
+	tol: 0.001
+	verbose: False

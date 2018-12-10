@@ -1,0 +1,36 @@
+**********        EVALUATION REPORT     **********
+Reduction: CHI2100
+Classifier: SVM
+Kernel: rbf
+Accuracy: 0.9517964071856287
+Precision: 0.9496704351018069
+Recall: 0.9517964071856287
+F-score: 0.9503409417914347
+Confusion matrix: 
+[[2941   59]
+ [ 102  238]]
+Classification report: 
+              precision    recall  f1-score   support
+
+       OTHER       0.97      0.98      0.97      3000
+          RI       0.80      0.70      0.75       340
+
+   micro avg       0.95      0.95      0.95      3340
+   macro avg       0.88      0.84      0.86      3340
+weighted avg       0.95      0.95      0.95      3340
+
+Best parameters: 
+	C: 204.96250676964962
+	cache_size: 200
+	class_weight: None
+	coef0: 0.0
+	decision_function_shape: 'ovr'
+	degree: 3
+	gamma: 0.15225019604018492
+	kernel: 'rbf'
+	max_iter: -1
+	probability: False
+	random_state: None
+	shrinking: True
+	tol: 0.001
+	verbose: False

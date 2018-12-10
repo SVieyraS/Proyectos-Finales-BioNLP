@@ -1,0 +1,25 @@
+**********        EVALUATION REPORT     **********
+Reduction: CHI2100
+Classifier: MultinomialNB
+Kernel: linear
+Accuracy: 0.9338323353293413
+Precision: 0.9276863813840666
+Recall: 0.9338323353293413
+F-score: 0.9262237680101145
+Confusion matrix: 
+[[2958   42]
+ [ 179  161]]
+Classification report: 
+              precision    recall  f1-score   support
+
+       OTHER       0.94      0.99      0.96      3000
+          RI       0.79      0.47      0.59       340
+
+   micro avg       0.93      0.93      0.93      3340
+   macro avg       0.87      0.73      0.78      3340
+weighted avg       0.93      0.93      0.93      3340
+
+Best parameters: 
+	alpha: 0.050525745581885745
+	class_prior: None
+	fit_prior: True
