@@ -1,4 +1,5 @@
 1. Primero se corre el Make_grid.py, toma como parametros pseudoGrid.conll, pero debido al tamaño del archivo, no se pudo subir al git.
+   Link a pseudoGrid.coll: https://drive.google.com/open?id=1bW5cblITwI2Xsl-ImzRayQg9nD6VbP3m
 2. Posteriormente se ejecuta Grid.sh para crear las tablas que utilizara train_cross_val.py
 3. Ejecutamos train_cross_val.py con la combinatoria de elemento necesarios.
    En la carpeta experimentos, tenemos ejemplos de las combinatorias a ejecutarse
