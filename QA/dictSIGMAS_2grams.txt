@@ -1,0 +1,16 @@
+sigma 54
+Sigma 54
+s 54
+S 54
+sigma 70
+Sigma 70
+s 70
+S 70
+sigma 28
+Sigma 28
+s 28
+S 28
+sigma 32
+Sigma 32
+s 32
+S 32
