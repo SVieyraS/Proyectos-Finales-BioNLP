@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 ##### Bioinformatics 1, Semester 2019-1
 ## NOTES: Python 3.7,v4.0, Oct 7th, 2018
 ## Author: Jocksan Villavicencio Villavicencio, LCG-UNAM, Mexico
